@@ -5,7 +5,7 @@ public class AddTwoIntegers {
         int first = 10;
         int second = 20;
 
-        System.out.println("Enter two numbers: " + first + " " + second);
+        System.out.println("Enter two number: " + first + " " + second);
         int sum = first + second;
 
         System.out.println("The sum is: " + sum);
